@@ -1,6 +1,6 @@
 # Caba
 
-TODO: Write a gem description
+Caba is a gem. It returns information about Capital Federal neighborhoods.
 
 ## Installation
 
@@ -20,7 +20,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### Command Line
+
+Caba comes with a binary. You can use it this way:
+
+    $ caba
+
+### Ruby Application
+
+```ruby
+Caba.neighborhoods # return neighborhoods
+```
 
 ## Contributing
 
