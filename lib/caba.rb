@@ -1,5 +1,9 @@
 require "caba/version"
+require "caba/model/neighborhood"
 
 module Caba
-  # Your code goes here...
+  def self.neighborhoods
+    Model::Neighborhood.all 
+  end
 end
+
