@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/llopez/caba.svg)](https://travis-ci.org/llopez/caba)
+
 # Caba
 
 Caba is a gem. It returns information about Capital Federal neighborhoods.
