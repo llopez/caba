@@ -11,7 +11,7 @@ module Caba
       end
 
       def self.all
-        string_io = File.read("info.csv")
+        string_io = File.read File.expand_path "../../../../info.csv", __FILE__ 
         rows = string_io.split("\n") 
         keys = rows[0].split(",")
         data = rows[1..-1].map{ |x|
