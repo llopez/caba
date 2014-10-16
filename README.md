@@ -2,7 +2,7 @@
 
 # Caba
 
-Caba is a gem. It returns information about Capital Federal neighborhoods.
+Caba is a gem made for __educational purpose__. It returns information about Capital Federal neighborhoods.
 
 ## Installation
 
