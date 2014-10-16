@@ -9,7 +9,7 @@ Caba is a gem. It returns information about Capital Federal neighborhoods.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'caba'
+gem 'caba', github: 'llopez/caba'
 ```
 
 And then execute:
